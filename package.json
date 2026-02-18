@@ -1,0 +1,9 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Simple Weather App CI Test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
