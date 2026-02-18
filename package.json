@@ -1,9 +1,12 @@
 {
   "name": "weather-app",
   "version": "1.0.0",
-  "description": "Simple Weather App CI Test",
+  "description": "Multi language CI",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
