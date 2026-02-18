@@ -1,5 +1,9 @@
 name: Weather App Production Check
 
+permissions:
+  contents: read
+  actions: write
+  
 on:
   push:
     branches: [ main ]
